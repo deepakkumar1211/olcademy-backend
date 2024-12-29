@@ -1,0 +1,18 @@
+{
+  "name": "olcademy-backend",
+  "version": "1.0.0",
+  "description": "A backend for olcademy internship task",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Deepak Kumar Sahu",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.2"
+  }
+}
